@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Yu Zha.
+👀 I’m interested in pattern recognition and computer vision.
+🌱 I’m currently doing my Master in RUB.
+📫 You can contact me by yu.zha@rub.de
