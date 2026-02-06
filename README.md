@@ -99,4 +99,11 @@ Yu Zha, Sherief Ali, Sebastian Schumacher, Michael Schulte, Markus Konig
 
 ---
 
+### WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <p align="center"><i>Open to collaboration on ML research, AI tooling, and data infrastructure projects.</i></p>
